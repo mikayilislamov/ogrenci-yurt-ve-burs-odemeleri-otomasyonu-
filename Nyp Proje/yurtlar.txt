@@ -1,0 +1,2 @@
+B100;Kız Öğrenci Yurdu;0;1
+B101;Erkek Öğrenci Yurdu;0;0

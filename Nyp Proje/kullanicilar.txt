@@ -1,0 +1,6 @@
+# tip;kullaniciAdi;parola;id
+öğrenci;deneme1;deneme;202100156
+öğrenci;deneme2;deneme;242100234
+öğrenci;deneme3;deneme;202100136
+öğrenci;deneme4;deneme;202100166
+personel;personel;admin;P001
